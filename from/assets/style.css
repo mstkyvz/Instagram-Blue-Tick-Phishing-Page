@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.lsf_o {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: #fafafa;
+    min-height: 105vh;
+}
+
+.card {
+    border: 1px solid #cecece;
+    position: relative;
+    width: 91%;
+    height: 530px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 25px 50px rgb(0, 0, 0, 0, 15);
+}
+
+.bvsf_asd {
+    margin-top: 30px;
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: #3897f0;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    max-width: 99%;
+    max-height: 50px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+}
+
+.bvsf_asd:hover {
+    box-shadow: 0 0 10px #3897f0;
+}
+
+.fdasf_o {
+    margin-top: 30px;
+    width: 250px;
+    height: 40px;
+    border: 0;
+    border-radius: 3px;
+    background: #f8f8f8;
+    color: black;
+    font-size: 15px;
+    border: 1px solid #dedede;
+    transition: 0.5s;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+.fdasf_o:focus {
+    box-shadow: 0 0 10px #3897f0;
+}
+
+.cardd {
+    border: 1px solid #cecece;
+    position: relative;
+    width: 91%;
+    height: 620px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 25px 50px rgb(0, 0, 0, 0, 15);
+}
+
+.lsf_od {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: #fafafa;
+    min-height: 110vh;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    color: #666;
+    padding: 0px;
+    text-align: center;
+}
+
+.carddd {
+    border: 1px solid #cecece;
+    position: relative;
+    width: 91%;
+    height: 1030px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 25px 50px rgb(0, 0, 0, 0, 15);
+}
+
+.lsf_odd {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: #fafafa;
+    min-height: 190vh;
+}
+
+.cardddd {
+    border: 1px solid #cecece;
+    position: relative;
+    width: 91%;
+    height: 650px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 25px 50px rgb(0, 0, 0, 0, 15);
+}
+
+header {
+    width: 100%;
+    min-height: 50px;
+    background: white;
+    box-sizing: border-box;
+
+}
+
+header table {
+    width: 100%;
+    height: 100%;
+}
+
+header table tr {
+    width: 100%;
+}
+
+header table tr td:nth-child(1) {
+    width: 80%;
+    padding-left: 10px;
+}
+
+header table tr td:nth-child(2) {
+    width: 20%;
+    text-align: center;
+
+}
