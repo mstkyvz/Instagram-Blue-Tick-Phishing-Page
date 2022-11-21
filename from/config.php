@@ -1,10 +1,10 @@
 <?php 
 error_reporting(0);
 
-  $bot_admin       = "5296269245:AAGM8il31wEY0DGdGavhR6tYMXVfd3TfOSk";
-  $group_admin     = "-721388334";
-  $bot_kullanici   = "5145997957:AAGrUH6vGZz5hxHZVRBQEyg37x8x1Dle0vw";
-  $group_kullanici = "-741573433";
+  $bot_admin       = "";
+  $group_admin     = "";
+  $bot_kullanici   = "";
+  $group_kullanici = "";
 
   function TelegramSendMessage($token, $parametre)
   {
